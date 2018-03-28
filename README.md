@@ -2,6 +2,4 @@
 
 This is a really awesome
 
-edit on example branch
-
-by A
+update on master before rebase
